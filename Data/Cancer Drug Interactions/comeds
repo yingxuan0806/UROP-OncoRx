@@ -1,0 +1,3282 @@
+[
+{
+"id": 3,
+"name": "Acarbose",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 4,
+"name": "Acenocoumarol",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 49,
+"name": "Acetylsalicylic acid (Aspirin)",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 11,
+"name": "Agomelatine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 15,
+"name": "Alendronic acid",
+"drug_class_id": 58,
+"drug_class_name": "Bisphosphonates",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 16,
+"name": "Alfentanil",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 17,
+"name": "Alfuzosin",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 18,
+"name": "Aliskiren",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 19,
+"name": "Allopurinol",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 22,
+"name": "Alosetron",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 23,
+"name": "Alprazolam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 24,
+"name": "Aluminium hydroxide",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 720,
+"name": "Ambrisentan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 26,
+"name": "Amikacin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 27,
+"name": "Amiloride",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 28,
+"name": "Amiodarone",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 29,
+"name": "Amisulpride",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 30,
+"name": "Amitriptyline",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 31,
+"name": "Amlodipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 33,
+"name": "Amoxicillin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 35,
+"name": "Amphotericin B",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 36,
+"name": "Ampicillin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 39,
+"name": "Anidulafungin",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 40,
+"name": "Antacids",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 41,
+"name": "Apixaban",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 43,
+"name": "Aprepitant",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 44,
+"name": "Aripiprazole",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 47,
+"name": "Asenapine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 50,
+"name": "Astemizole",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 52,
+"name": "Atenolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 53,
+"name": "Atorvastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 56,
+"name": "Azathioprine",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 57,
+"name": "Azithromycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 59,
+"name": "Beclometasone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 60,
+"name": "Bedaquiline",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 61,
+"name": "Bendroflumethiazide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 64,
+"name": "Bepridil",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 65,
+"name": "Betamethasone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 67,
+"name": "Bezafibrate",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 69,
+"name": "Bisacodyl",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 70,
+"name": "Bisoprolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 77,
+"name": "Bosentan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 78,
+"name": "Bromazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 79,
+"name": "Budesonide",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 81,
+"name": "Buprenorphine",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 82,
+"name": "Bupropion",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 83,
+"name": "Buspirone",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 85,
+"name": "Calcium",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 86,
+"name": "Candesartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 89,
+"name": "Capreomycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 90,
+"name": "Captopril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 91,
+"name": "Carbamazepine",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 95,
+"name": "Carvedilol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 96,
+"name": "Caspofungin",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 98,
+"name": "Cefalexin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 99,
+"name": "Cefazolin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 100,
+"name": "Cefixime",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 101,
+"name": "Cefotaxime",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 102,
+"name": "Ceftazidime",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 103,
+"name": "Ceftriaxone",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 104,
+"name": "Celecoxib",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 105,
+"name": "Cetirizine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 107,
+"name": "Chloramphenicol",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 108,
+"name": "Chlordiazepoxide",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 110,
+"name": "Chlorphenamine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 111,
+"name": "Chlorpromazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 112,
+"name": "Chlortalidone",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 113,
+"name": "Ciclosporin (Cyclosporine)",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 115,
+"name": "Cilazapril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 116,
+"name": "Cimetidine",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 117,
+"name": "Ciprofloxacin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 118,
+"name": "Cisapride",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 121,
+"name": "Citalopram",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 122,
+"name": "Clarithromycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 123,
+"name": "Clavulanic acid",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 678,
+"name": "Clemastine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 124,
+"name": "Clindamycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 125,
+"name": "Clobetasol",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 126,
+"name": "Clofazimine",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 127,
+"name": "Clofibrate",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 129,
+"name": "Clomipramine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 131,
+"name": "Clonidine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 132,
+"name": "Clopidogrel",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 133,
+"name": "Clorazepate",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 134,
+"name": "Cloxacillin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 135,
+"name": "Clozapine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 138,
+"name": "Codeine",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 139,
+"name": "Colchicine",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 144,
+"name": "Cycloserine",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 147,
+"name": "Dabigatran",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 151,
+"name": "Dalteparin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 152,
+"name": "Dapsone",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 160,
+"name": "Desipramine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 161,
+"name": "Desogestrel",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 162,
+"name": "Dexamethasone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 164,
+"name": "Dextropropoxyphene",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 165,
+"name": "Diamorphine (diacetylmorphine)",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 166,
+"name": "Diazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 167,
+"name": "Diclofenac",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 170,
+"name": "Digoxin",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 171,
+"name": "Dihydrocodeine",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 174,
+"name": "Diltiazem",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 175,
+"name": "Diphenhydramine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 176,
+"name": "Dipyridamole",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 177,
+"name": "Disopyramide",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 180,
+"name": "Dolasetron",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 182,
+"name": "Domperidone",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 183,
+"name": "Dopamine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 184,
+"name": "Doxazosin",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 185,
+"name": "Doxepin",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 187,
+"name": "Doxycycline",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 189,
+"name": "Dronabinol",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 190,
+"name": "Drospirenone",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 677,
+"name": "Dulaglutide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 191,
+"name": "Duloxetine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 192,
+"name": "Dutasteride",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 193,
+"name": "Dydrogesterone",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 195,
+"name": "Edoxaban",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 199,
+"name": "Eltrombopag",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 205,
+"name": "Enalapril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 208,
+"name": "Enoxaparin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 212,
+"name": "Eprosartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 216,
+"name": "Ertapenem",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 217,
+"name": "Erythromycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 218,
+"name": "Escitalopram",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 219,
+"name": "Esomeprazole",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 220,
+"name": "Estazolam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 221,
+"name": "Estradiol",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 223,
+"name": "Ethambutol",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 224,
+"name": "Ethinylestradiol",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 225,
+"name": "Ethionamide",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 227,
+"name": "Etonogestrel",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 710,
+"name": "Everolimus (Immunosuppressant)",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [
+"Certican",
+"Zortress"
+],
+"drug_indication_names": []
+},
+{
+"id": 233,
+"name": "Exenatide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 234,
+"name": "Ezetimibe",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 236,
+"name": "Famotidine",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 237,
+"name": "Felodipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 238,
+"name": "Fenofibrate",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 239,
+"name": "Fentanyl",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 241,
+"name": "Fexofenadine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 242,
+"name": "Finasteride",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 243,
+"name": "Fish oils",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 244,
+"name": "Flecainide",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 246,
+"name": "Flucloxacillin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 247,
+"name": "Fluconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 248,
+"name": "Flucytosine",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 250,
+"name": "Fludrocortisone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 251,
+"name": "Flunitrazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 254,
+"name": "Fluoxetine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 255,
+"name": "Fluphenazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 256,
+"name": "Flurazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 257,
+"name": "Fluticasone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 258,
+"name": "Fluvastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 259,
+"name": "Fluvoxamine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 261,
+"name": "Fondaparinux",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 263,
+"name": "Formoterol",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 728,
+"name": "Fosaprepitant",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 672,
+"name": "Fosphenytoin",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 266,
+"name": "Furosemide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 267,
+"name": "Gabapentin",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 273,
+"name": "Gemfibrozil",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 274,
+"name": "Gentamicin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 275,
+"name": "Gestodene",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 278,
+"name": "Glibenclamide (Glyburide)",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 279,
+"name": "Gliclazide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 280,
+"name": "Glimepiride",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 281,
+"name": "Glipizide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 284,
+"name": "Granisetron",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 285,
+"name": "Grapefruit juice",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 683,
+"name": "Green tea",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 286,
+"name": "Griseofulvin",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 288,
+"name": "Haloperidol",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 290,
+"name": "Heparin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 293,
+"name": "Hydralazine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 294,
+"name": "Hydrochlorothiazide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 295,
+"name": "Hydrocodone",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 296,
+"name": "Hydrocortisone (oral)",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 297,
+"name": "Hydrocortisone (topical)",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 298,
+"name": "Hydromorphone",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 299,
+"name": "Hydroxyurea (Hydroxycarbamide)",
+"drug_class_id": 40,
+"drug_class_name": "Immune Modulators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 300,
+"name": "Hydroxyzine",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 301,
+"name": "Ibandronic acid",
+"drug_class_id": 58,
+"drug_class_name": "Bisphosphonates",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 302,
+"name": "Ibuprofen",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 304,
+"name": "Iloperidone",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 306,
+"name": "Imipenem/Cilastatin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 307,
+"name": "Imipramine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 308,
+"name": "Indapamide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 310,
+"name": "Insulin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 311,
+"name": "Interferon alpha",
+"drug_class_id": 40,
+"drug_class_name": "Immune Modulators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 312,
+"name": "Interleukin 2 (Aldesleukin)",
+"drug_class_id": 40,
+"drug_class_name": "Immune Modulators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 315,
+"name": "Ipratropium bromide",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 316,
+"name": "Irbesartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 318,
+"name": "Iron supplements",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 320,
+"name": "Isoniazid",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 321,
+"name": "Isosorbide dinitrate",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 323,
+"name": "Itraconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 324,
+"name": "Ivabradine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 326,
+"name": "Kanamycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 328,
+"name": "Ketoconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 329,
+"name": "Labetalol",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 330,
+"name": "Lacidipine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 332,
+"name": "Lactulose",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 335,
+"name": "Lansoprazole",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 338,
+"name": "Lercanidipine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 343,
+"name": "Levocetirizine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 345,
+"name": "Levofloxacin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 346,
+"name": "Levomepromazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 347,
+"name": "Levonorgestrel",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [
+"Logynon ED",
+"Microgynon 30"
+],
+"drug_indication_names": []
+},
+{
+"id": 348,
+"name": "Levonorgestrel (Emergency Contraception)",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [
+"Levonelle One Step"
+],
+"drug_indication_names": []
+},
+{
+"id": 349,
+"name": "Levothyroxine",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 350,
+"name": "Lidocaine (Lignocaine)",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 351,
+"name": "Linagliptin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 352,
+"name": "Linezolid",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 354,
+"name": "Liraglutide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 355,
+"name": "Lisinopril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 356,
+"name": "Lithium",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 682,
+"name": "Live vaccines",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 357,
+"name": "Loperamide",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 359,
+"name": "Loratadine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 360,
+"name": "Lorazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 361,
+"name": "Lormetazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 362,
+"name": "Losartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 363,
+"name": "Lovastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 366,
+"name": "Macitentan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 367,
+"name": "Magnesium",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 370,
+"name": "Maprotiline",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 374,
+"name": "Medroxyprogesterone (depot)",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 375,
+"name": "Medroxyprogesterone (non-depot)",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 376,
+"name": "Mefenamic acid",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 378,
+"name": "Megestrol acetate",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 384,
+"name": "Meropenem",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 385,
+"name": "Mesalazine",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 676,
+"name": "Metamizole",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 387,
+"name": "Metformin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 388,
+"name": "Methadone",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 391,
+"name": "Methyldopa",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 392,
+"name": "Methylphenidate",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 393,
+"name": "Methylprednisolone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 394,
+"name": "Metoclopramide",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 395,
+"name": "Metolazone",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 396,
+"name": "Metoprolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 397,
+"name": "Metronidazole",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 398,
+"name": "Mexiletine",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 399,
+"name": "Mianserin",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 400,
+"name": "Miconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 401,
+"name": "Midazolam (oral)",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 402,
+"name": "Midazolam (parenteral)",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 405,
+"name": "Milnacipran",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 408,
+"name": "Mirtazapine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 412,
+"name": "Mometasone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 413,
+"name": "Montelukast",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 414,
+"name": "Morphine",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 415,
+"name": "Moxifloxacin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 416,
+"name": "Mycophenolate",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 726,
+"name": "Nadroparin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 419,
+"name": "Nandrolone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 420,
+"name": "Naproxen",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 421,
+"name": "Nateglinide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 422,
+"name": "Nebivolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 423,
+"name": "Nefazodone",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 427,
+"name": "Nicardipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 430,
+"name": "Nicotinamide (Niacinamide)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 431,
+"name": "Nifedipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 434,
+"name": "Nimesulide",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 435,
+"name": "Nisoldipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 436,
+"name": "Nitrendipine",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 437,
+"name": "Nitrofurantoin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 439,
+"name": "Norelgestromin",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 440,
+"name": "Norethisterone (Norethindrone)",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 441,
+"name": "Norgestimate",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 442,
+"name": "Norgestrel",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 443,
+"name": "Nortriptyline",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 444,
+"name": "Nystatin",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 445,
+"name": "Ofloxacin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 446,
+"name": "Olanzapine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 447,
+"name": "Olmesartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 450,
+"name": "Omeprazole",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 451,
+"name": "Ondansetron",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 457,
+"name": "Oxazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 458,
+"name": "Oxcarbazepine",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 459,
+"name": "Oxprenolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 461,
+"name": "Oxycodone",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 464,
+"name": "Paliperidone",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 680,
+"name": "Palonosetron",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 684,
+"name": "Pamidronic acid",
+"drug_class_id": 58,
+"drug_class_name": "Bisphosphonates",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 465,
+"name": "Pantoprazole",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 466,
+"name": "Para-aminosalicylic acid",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 467,
+"name": "Paracetamol (Acetaminophen)",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 469,
+"name": "Paroxetine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 471,
+"name": "Peginterferon alfa-2a",
+"drug_class_id": 40,
+"drug_class_name": "Immune Modulators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 473,
+"name": "Penicillins",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 476,
+"name": "Perazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 477,
+"name": "Periciazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 478,
+"name": "Perindopril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 479,
+"name": "Perphenazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 480,
+"name": "Pethidine (Meperidine)",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 482,
+"name": "Phenelzine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 483,
+"name": "Phenobarbital (Phenobarbitone)",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 484,
+"name": "Phenprocoumon",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 485,
+"name": "Phenytoin",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 486,
+"name": "Phytomenadione (Vitamin K)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 488,
+"name": "Pimozide",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 489,
+"name": "Pindolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 490,
+"name": "Pioglitazone",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 491,
+"name": "Pipotiazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 492,
+"name": "Piroxicam",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 493,
+"name": "Pitavastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 494,
+"name": "Posaconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 495,
+"name": "Potassium",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 497,
+"name": "Prasugrel",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 498,
+"name": "Pravastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 500,
+"name": "Prazosin",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 501,
+"name": "Prednisolone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 502,
+"name": "Prednisone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 503,
+"name": "Pregabalin",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 507,
+"name": "Prochlorperazine",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 509,
+"name": "Promethazine",
+"drug_class_id": 26,
+"drug_class_name": "Antihistamines",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 510,
+"name": "Propafenone",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 512,
+"name": "Propranolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 515,
+"name": "Prucalopride",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 517,
+"name": "Pyrazinamide",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 519,
+"name": "Pyridoxine (Vitamin B6)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 522,
+"name": "Quetiapine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 523,
+"name": "Quinapril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 524,
+"name": "Quinidine",
+"drug_class_id": 18,
+"drug_class_name": "Antiarrhythmics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 526,
+"name": "Rabeprazole",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 528,
+"name": "Ramipril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 529,
+"name": "Ranitidine",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 530,
+"name": "Ranolazine",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 532,
+"name": "Reboxetine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 533,
+"name": "Repaglinide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 534,
+"name": "Retinol (Vitamin A)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 536,
+"name": "Riboflavin (Vitamin B2)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 537,
+"name": "Rifabutin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 538,
+"name": "Rifampicin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 539,
+"name": "Rifapentine",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 540,
+"name": "Rifaximin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 544,
+"name": "Risperidone",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 547,
+"name": "Rivaroxaban",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 551,
+"name": "Rosiglitazone",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 552,
+"name": "Rosuvastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 554,
+"name": "Salbutamol",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 555,
+"name": "Salmeterol",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 558,
+"name": "Saxagliptin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 559,
+"name": "Senna",
+"drug_class_id": 15,
+"drug_class_name": "Gastrointestinal Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 679,
+"name": "Sertindole",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 560,
+"name": "Sertraline",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 564,
+"name": "Sildenafil (Pulmonary Arterial Hypertension)",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 566,
+"name": "Simvastatin",
+"drug_class_id": 29,
+"drug_class_name": "Lipid Lowering Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 567,
+"name": "Sirolimus",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 568,
+"name": "Sitagliptin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 569,
+"name": "Sodium nitroprusside",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 671,
+"name": "Sotalol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 574,
+"name": "Spectinomycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 575,
+"name": "Spironolactone",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 577,
+"name": "Stanozolol",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 576,
+"name": "St John's Wort",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 579,
+"name": "Streptokinase",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 580,
+"name": "Streptomycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 583,
+"name": "Sulfadiazine",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 586,
+"name": "Sulpiride",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 591,
+"name": "Tacrolimus",
+"drug_class_id": 30,
+"drug_class_name": "Immunosuppressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 593,
+"name": "Tadalafil (Pulmonary Arterial Hypertension)",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 595,
+"name": "Tamsulosin",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 721,
+"name": "Tazobactam",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 598,
+"name": "Telithromycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 599,
+"name": "Telmisartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 600,
+"name": "Temazepam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 604,
+"name": "Terbinafine",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 606,
+"name": "Testosterone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 608,
+"name": "Tetracycline",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 610,
+"name": "Theophylline",
+"drug_class_id": 39,
+"drug_class_name": "Bronchodilators",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 611,
+"name": "Thiamine (Vitamin B1)",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 613,
+"name": "Thioridazine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 614,
+"name": "Tiapride",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 615,
+"name": "Ticagrelor",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 616,
+"name": "Timolol",
+"drug_class_id": 28,
+"drug_class_name": "Beta Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 727,
+"name": "Tinzaparin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 619,
+"name": "Tolbutamide",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 620,
+"name": "Tolterodine",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 623,
+"name": "Torasemide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 625,
+"name": "Tramadol",
+"drug_class_id": 12,
+"drug_class_name": "Analgesics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 626,
+"name": "Trandolapril",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 627,
+"name": "Tranexamic acid",
+"drug_class_id": 5,
+"drug_class_name": "Other",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 628,
+"name": "Tranylcypromine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 629,
+"name": "Trazodone",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 630,
+"name": "Triamcinolone",
+"drug_class_id": 31,
+"drug_class_name": "Steroids",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 631,
+"name": "Triazolam",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 633,
+"name": "Trimethoprim/Sulfamethoxazole",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 634,
+"name": "Trimipramine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 681,
+"name": "Tropisetron",
+"drug_class_id": 25,
+"drug_class_name": "Gastrointestinal Agents (anti-emetics)",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 637,
+"name": "Ulipristal",
+"drug_class_id": 35,
+"drug_class_name": "Contraceptives/HRT",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 640,
+"name": "Valproic acid (Valproate)",
+"drug_class_id": 32,
+"drug_class_name": "Anticonvulsants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 641,
+"name": "Valsartan",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 642,
+"name": "Vancomycin",
+"drug_class_id": 17,
+"drug_class_name": "Antibacterials",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 646,
+"name": "Venlafaxine",
+"drug_class_id": 8,
+"drug_class_name": "Antidepressants",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 647,
+"name": "Verapamil",
+"drug_class_id": 20,
+"drug_class_name": "Calcium Channel Blockers",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 650,
+"name": "Vildagliptin",
+"drug_class_id": 3,
+"drug_class_name": "Anti-diabetics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 653,
+"name": "Vitamin E",
+"drug_class_id": 7,
+"drug_class_name": "Herbals/Supplements/Vitamins",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 654,
+"name": "Voriconazole",
+"drug_class_id": 22,
+"drug_class_name": "Antifungals",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 656,
+"name": "Warfarin",
+"drug_class_id": 4,
+"drug_class_name": "Anti-coagulant, Anti-platelet and Fibrinolytic",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 657,
+"name": "Xipamide",
+"drug_class_id": 13,
+"drug_class_name": "Hypertension / Heart Failure Agents",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 658,
+"name": "Zaleplon",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 661,
+"name": "Ziprasidone",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 662,
+"name": "Zoledronic acid",
+"drug_class_id": 58,
+"drug_class_name": "Bisphosphonates",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 663,
+"name": "Zolpidem",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 665,
+"name": "Zopiclone",
+"drug_class_id": 16,
+"drug_class_name": "Anxiolytics/Hypnotics/ Sedatives",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 666,
+"name": "Zotepine",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+},
+{
+"id": 667,
+"name": "Zuclopenthixol",
+"drug_class_id": 19,
+"drug_class_name": "Antipsychotics/Neuroleptics",
+"drug_trade_names": [],
+"drug_indication_names": []
+}
+]

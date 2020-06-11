@@ -1,0 +1,198 @@
+[
+{
+"id": 43,
+"name": "Oncolytics (Anthracyclines)",
+"created_at": "2017-03-29T09:22:34.299Z",
+"updated_at": "2019-09-24T12:24:01.775Z",
+"primary_drug_class": true,
+"connected_drugs": [
+186,
+211,
+156,
+410,
+741
+]
+},
+{
+"id": 44,
+"name": "Oncolytics (Antimetabolites)",
+"created_at": "2017-03-29T09:22:41.587Z",
+"updated_at": "2019-11-19T15:22:25.473Z",
+"primary_drug_class": true,
+"connected_drugs": [
+88,
+146,
+253,
+272,
+390,
+249,
+383,
+739,
+775
+]
+},
+{
+"id": 49,
+"name": "Oncolytics (HDAC inhibitors)",
+"created_at": "2017-03-29T09:23:10.768Z",
+"updated_at": "2018-10-19T15:25:46.889Z",
+"primary_drug_class": true,
+"connected_drugs": [
+655,
+730
+]
+},
+{
+"id": 50,
+"name": "Oncolytics (Monoclonal antibodies)",
+"created_at": "2017-03-29T09:23:15.735Z",
+"updated_at": "2018-11-15T15:57:54.659Z",
+"primary_drug_class": true,
+"connected_drugs": [
+546,
+685,
+687,
+712,
+690,
+713,
+714,
+698,
+699,
+704,
+719,
+718,
+705,
+707,
+708,
+722,
+731,
+732,
+729,
+733
+]
+},
+{
+"id": 51,
+"name": "Oncolytics (mTOR inhibitors)",
+"created_at": "2017-03-29T09:23:21.451Z",
+"updated_at": "2017-11-20T09:33:08.790Z",
+"primary_drug_class": true,
+"connected_drugs": [
+601,
+231
+]
+},
+{
+"id": 52,
+"name": "Oncolytics (Others) ",
+"created_at": "2017-03-29T09:23:26.375Z",
+"updated_at": "2019-02-06T14:15:48.359Z",
+"primary_drug_class": true,
+"connected_drugs": [
+48,
+66,
+76,
+670,
+609,
+709,
+723,
+724,
+725,
+734,
+737,
+735
+]
+},
+{
+"id": 54,
+"name": "Oncolytics (Taxanes)",
+"created_at": "2017-03-29T09:23:37.653Z",
+"updated_at": "2019-09-24T12:25:34.394Z",
+"primary_drug_class": true,
+"connected_drugs": [
+179,
+463,
+740
+]
+},
+{
+"id": 55,
+"name": "Oncolytics (Topo-isomerase inhibitors)",
+"created_at": "2017-03-29T09:23:42.676Z",
+"updated_at": "2019-09-24T12:25:18.274Z",
+"primary_drug_class": true,
+"connected_drugs": [
+228,
+317,
+622
+]
+},
+{
+"id": 56,
+"name": "Oncolytics (Protein kinase inhibitors)",
+"created_at": "2017-03-29T09:23:49.379Z",
+"updated_at": "2019-02-11T15:02:54.472Z",
+"primary_drug_class": true,
+"connected_drugs": [
+215,
+155,
+271,
+305,
+336,
+433,
+573,
+675,
+588,
+674,
+470,
+706,
+688,
+689,
+693,
+694,
+716,
+697,
+717,
+702,
+703,
+700,
+701,
+736
+]
+},
+{
+"id": 57,
+"name": "Oncolytics (Vinca alkaloids)",
+"created_at": "2017-03-29T09:23:55.435Z",
+"updated_at": "2019-09-24T12:25:38.692Z",
+"primary_drug_class": true,
+"connected_drugs": [
+651,
+652,
+742
+]
+},
+{
+"id": 59,
+"name": "Oncolytics (PARP inhibitors)",
+"created_at": "2017-08-15T13:09:01.420Z",
+"updated_at": "2019-02-11T15:03:38.335Z",
+"primary_drug_class": true,
+"connected_drugs": [
+686,
+715,
+738
+]
+},
+{
+"id": 61,
+"name": "Oncolytics (Anti-androgens)",
+"created_at": "2017-12-18T09:23:10.681Z",
+"updated_at": "2017-12-18T09:24:41.852Z",
+"primary_drug_class": true,
+"connected_drugs": [
+695,
+696
+]
+}
+]

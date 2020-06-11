@@ -1,0 +1,1231 @@
+[{
+        id: 739,
+        name: "5-fluorouracil",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 44,
+        created_at: "2019-07-15T08:38:48.067Z",
+        updated_at: "2019-09-25T11:16:11.226Z",
+        drug_class_name: "Oncolytics (Antimetabolites)",
+        drug_trade_names: [
+            "Fluorouracil",
+            "Efidix",
+            "Efudex"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer",
+            "Head and Neck Cancer",
+            "Melanoma/ Skin Cancer"
+        ]
+    },
+    {
+        id: 734,
+        name: "Abemaciclib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2019-01-16T15:28:46.903Z",
+        updated_at: "2019-02-06T14:14:25.884Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Verzenios",
+            "Verzenio"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 695,
+        name: "Abiraterone",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 61,
+        created_at: "2017-10-13T09:36:50.108Z",
+        updated_at: "2017-12-18T09:24:15.247Z",
+        drug_class_name: "Oncolytics (Anti-androgens)",
+        drug_trade_names: [
+            "Zytiga"
+        ],
+        drug_indication_names: [
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 717,
+        name: "Acalabrutinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-04-20T13:44:30.016Z",
+        updated_at: "2018-06-07T16:55:44.303Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Calquence"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 705,
+        name: "Alemtuzumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-01-31T11:28:02.180Z",
+        updated_at: "2018-03-15T15:51:48.625Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Campath",
+            "MabCampath"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 714,
+        name: "Avelumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-04-20T13:34:00.250Z",
+        updated_at: "2018-05-29T07:44:19.632Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Bavencio"
+        ],
+        drug_indication_names: [
+            "Melanoma/ Skin Cancer",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 674,
+        name: "Axitinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-04-11T13:43:37.915Z",
+        updated_at: "2017-11-20T09:32:36.109Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Inlyta"
+        ],
+        drug_indication_names: [
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 685,
+        name: "Bevacizumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2017-05-08T10:16:45.380Z",
+        updated_at: "2017-11-20T09:32:38.526Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Avastin"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer",
+            "Gynaecological Cancer",
+            "Genitourinary Cancer",
+            "Central Nerve System Tumours",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 718,
+        name: "Blinatumomab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-04-20T13:51:31.864Z",
+        updated_at: "2018-06-07T16:57:42.451Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Blincyto"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 76,
+        name: "Bortezomib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2017-03-28T10:02:22.691Z",
+        updated_at: "2018-11-15T15:57:46.317Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Velcade"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 693,
+        name: "Bosutinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-09-21T09:18:59.338Z",
+        updated_at: "2017-11-20T09:32:40.887Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Bosulif"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 698,
+        name: "Brentuximab vedotin",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2017-11-15T09:47:59.509Z",
+        updated_at: "2018-01-09T15:11:57.035Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Adcetris"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 740,
+        name: "Cabazitaxel",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 54,
+        created_at: "2019-07-15T08:40:38.355Z",
+        updated_at: "2019-09-24T12:23:43.924Z",
+        drug_class_name: "Oncolytics (Taxanes)",
+        drug_trade_names: [
+            "Jevtana"
+        ],
+        drug_indication_names: [
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 675,
+        name: "Cabozantinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-04-11T13:44:05.072Z",
+        updated_at: "2017-11-20T09:32:43.678Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Cometriq",
+            "Cabometyx"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Endocrine Tumours",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 88,
+        name: "Capecitabine",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 44,
+        created_at: "2017-03-28T10:02:22.912Z",
+        updated_at: "2018-05-08T14:13:29.352Z",
+        drug_class_name: "Oncolytics (Antimetabolites)",
+        drug_trade_names: [
+            "Xeloda"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer"
+        ]
+    },
+    {
+        id: 712,
+        name: "Cetuximab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-04-09T14:09:23.689Z",
+        updated_at: "2018-05-08T14:13:58.164Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Erbitux"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Head and Neck Cancer"
+        ]
+    },
+    {
+        id: 703,
+        name: "Cobimetinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-01-09T16:09:45.657Z",
+        updated_at: "2018-02-21T12:10:51.660Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Cotellic"
+        ],
+        drug_indication_names: [
+            "Melanoma/ Skin Cancer"
+        ]
+    },
+    {
+        id: 700,
+        name: "Dabrafenib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-01-09T16:06:12.419Z",
+        updated_at: "2018-03-15T15:51:51.112Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Tafinlar",
+            "Rafinlar"
+        ],
+        drug_indication_names: [
+            "Melanoma/ Skin Cancer",
+            "Endocrine Tumours",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 722,
+        name: "Daratumumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-06-19T15:38:15.954Z",
+        updated_at: "2018-07-20T15:24:00.072Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Darzalex"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 155,
+        name: "Dasatinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:24.227Z",
+        updated_at: "2017-11-15T11:25:42.553Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Sprycel"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 179,
+        name: "Docetaxel",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 54,
+        created_at: "2017-03-28T10:02:24.703Z",
+        updated_at: "2019-09-24T12:23:50.978Z",
+        drug_class_name: "Oncolytics (Taxanes)",
+        drug_trade_names: [
+            "Taxotere"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer",
+            "Head and Neck Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 741,
+        name: "Doxorubicin (liposomal)",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 43,
+        created_at: "2019-07-15T08:48:12.694Z",
+        updated_at: "2019-09-24T12:23:56.413Z",
+        drug_class_name: "Oncolytics (Anthracyclines)",
+        drug_trade_names: [
+            "Doxorubicin",
+            "Caelyx",
+            "Myocet",
+            "Doxil"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Haematological Malignancy",
+            "Sarcoma",
+            "Gynaecological Cancer"
+        ]
+    },
+    {
+        id: 729,
+        name: "Elotuzumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-07-04T12:51:45.331Z",
+        updated_at: "2018-10-19T15:22:42.049Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Empliciti"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 696,
+        name: "Enzalutamide",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 61,
+        created_at: "2017-10-13T09:38:46.222Z",
+        updated_at: "2017-12-18T09:24:41.821Z",
+        drug_class_name: "Oncolytics (Anti-androgens)",
+        drug_trade_names: [
+            "Xtandi"
+        ],
+        drug_indication_names: [
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 211,
+        name: "Epirubicin",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 43,
+        created_at: "2017-03-28T10:02:25.380Z",
+        updated_at: "2019-09-24T12:24:01.726Z",
+        drug_class_name: "Oncolytics (Anthracyclines)",
+        drug_trade_names: [
+            "Pharmorubicin",
+            "Ellence"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Haematological Malignancy",
+            "Gastrointestinal Cancer",
+            "Gynaecological Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 231,
+        name: "Everolimus",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 51,
+        created_at: "2017-03-28T10:02:25.777Z",
+        updated_at: "2017-11-20T09:33:08.782Z",
+        drug_class_name: "Oncolytics (mTOR inhibitors)",
+        drug_trade_names: [
+            "Afinitor",
+            "Votubia"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Endocrine Tumours",
+            "Genitourinary Cancer",
+            "Central Nerve System Tumours"
+        ]
+    },
+    {
+        id: 272,
+        name: "Gemcitabine",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 44,
+        created_at: "2017-03-28T10:02:26.584Z",
+        updated_at: "2019-09-24T12:25:13.841Z",
+        drug_class_name: "Oncolytics (Antimetabolites)",
+        drug_trade_names: [
+            "Gemzar",
+            "Infugem"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer",
+            "Gynaecological Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 706,
+        name: "Ibrutinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-01-31T11:28:43.858Z",
+        updated_at: "2018-04-27T10:29:45.767Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Imbruvica"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 697,
+        name: "Idelalisib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-11-15T09:38:21.935Z",
+        updated_at: "2017-12-20T14:17:56.945Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Zydelig"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 305,
+        name: "Imatinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:27.119Z",
+        updated_at: "2017-11-20T09:33:11.630Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Glivec",
+            "Gleevec",
+            "Nibix",
+            "Mytib",
+            "Imakrebin",
+            "Leutipol",
+            "Tibaldix"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy",
+            "Sarcoma"
+        ]
+    },
+    {
+        id: 719,
+        name: "Inotuzumab ozogamicin",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-04-20T13:53:51.770Z",
+        updated_at: "2018-06-07T16:57:28.509Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Besponsa"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 704,
+        name: "Ipilimumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-01-09T16:10:45.971Z",
+        updated_at: "2018-02-08T16:47:02.305Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Yervoy"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Melanoma/ Skin Cancer",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 317,
+        name: "Irinotecan",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 55,
+        created_at: "2017-03-28T10:02:27.327Z",
+        updated_at: "2019-09-24T12:25:18.261Z",
+        drug_class_name: "Oncolytics (Topo-isomerase inhibitors)",
+        drug_trade_names: [
+            "Onivyde",
+            "Campto",
+            "Camptosar"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer"
+        ]
+    },
+    {
+        id: 724,
+        name: "Ixazomib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2018-06-19T15:39:44.833Z",
+        updated_at: "2018-07-20T15:27:02.905Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Ninlaro"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 336,
+        name: "Lapatinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:27.641Z",
+        updated_at: "2019-02-11T14:57:49.334Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Tyverb",
+            "Tykerb"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 725,
+        name: "Lenalidomide",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2018-06-19T15:40:51.976Z",
+        updated_at: "2018-10-19T15:24:41.356Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Revlimid"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 688,
+        name: "Lenvatinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-07-07T09:42:01.923Z",
+        updated_at: "2017-11-20T09:33:14.438Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Lenvima",
+            "Kisplyx"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Endocrine Tumours",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 390,
+        name: "Methotrexate",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 44,
+        created_at: "2017-03-28T10:02:28.507Z",
+        updated_at: "2019-09-24T12:25:30.232Z",
+        drug_class_name: "Oncolytics (Antimetabolites)",
+        drug_trade_names: [
+            "Jylamvo",
+            "Matrex",
+            "Methotrexate",
+            "Xatmep"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Haematological Malignancy",
+            "Sarcoma",
+            "Head and Neck Cancer",
+            "Gynaecological Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 736,
+        name: "Neratinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2019-01-17T11:20:42.218Z",
+        updated_at: "2019-02-11T15:02:54.423Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Nerlynx"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 433,
+        name: "Nilotinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:29.239Z",
+        updated_at: "2017-11-15T11:19:37.830Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Tasigna"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 715,
+        name: "Niraparib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 59,
+        created_at: "2018-04-20T13:40:28.255Z",
+        updated_at: "2018-05-29T07:44:35.157Z",
+        drug_class_name: "Oncolytics (PARP inhibitors)",
+        drug_trade_names: [
+            "Zejula"
+        ],
+        drug_indication_names: [
+            "Gynaecological Cancer"
+        ]
+    },
+    {
+        id: 687,
+        name: "Nivolumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2017-05-17T10:23:37.512Z",
+        updated_at: "2017-11-20T09:34:28.545Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Opdivo"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy",
+            "Gastrointestinal Cancer",
+            "Head and Neck Cancer",
+            "Melanoma/ Skin Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 707,
+        name: "Obinutuzumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-01-31T11:29:32.391Z",
+        updated_at: "2018-03-15T15:51:54.792Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Gazyva",
+            "Gazyvaro"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 708,
+        name: "Ofatumumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-01-31T11:30:08.095Z",
+        updated_at: "2018-03-20T14:25:09.844Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Arzerra"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 686,
+        name: "Olaparib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 59,
+        created_at: "2017-05-08T10:18:43.798Z",
+        updated_at: "2017-11-20T09:34:30.921Z",
+        drug_class_name: "Oncolytics (PARP inhibitors)",
+        drug_trade_names: [
+            "Lynparza"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gynaecological Cancer"
+        ]
+    },
+    {
+        id: 690,
+        name: "Olaratumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2017-08-14T10:30:03.386Z",
+        updated_at: "2017-11-20T09:34:33.750Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Lartruvo"
+        ],
+        drug_indication_names: [
+            "Sarcoma"
+        ]
+    },
+    {
+        id: 463,
+        name: "Paclitaxel",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 54,
+        created_at: "2017-03-28T10:02:29.709Z",
+        updated_at: "2019-09-24T12:25:34.373Z",
+        drug_class_name: "Oncolytics (Taxanes)",
+        drug_trade_names: [
+            "Abraxane",
+            "Paclitaxel",
+            "Taxol"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer",
+            "Sarcoma",
+            "Gynaecological Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 735,
+        name: "Palbociclib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2019-01-16T15:30:51.226Z",
+        updated_at: "2019-02-06T14:15:48.332Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Ibrance"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 713,
+        name: "Panitumumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-04-09T14:10:56.305Z",
+        updated_at: "2018-05-08T14:14:18.709Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Vectibix"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer"
+        ]
+    },
+    {
+        id: 730,
+        name: "Panobinostat",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 49,
+        created_at: "2018-07-04T12:53:17.635Z",
+        updated_at: "2018-10-19T15:25:46.871Z",
+        drug_class_name: "Oncolytics (HDAC inhibitors)",
+        drug_trade_names: [
+            "Farydak"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 470,
+        name: "Pazopanib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:29.818Z",
+        updated_at: "2017-11-20T09:34:36.600Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Votrient"
+        ],
+        drug_indication_names: [
+            "Sarcoma",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 699,
+        name: "Pembrolizumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-01-09T15:28:33.784Z",
+        updated_at: "2018-02-05T15:36:01.783Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Keytruda"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy",
+            "Gastrointestinal Cancer",
+            "Head and Neck Cancer",
+            "Melanoma/ Skin Cancer",
+            "Gynaecological Cancer",
+            "Genitourinary Cancer",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 731,
+        name: "Pertuzumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-09-21T14:50:38.018Z",
+        updated_at: "2018-11-15T15:57:38.340Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Perjeta"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 723,
+        name: "Pomalidomide",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2018-06-19T15:39:03.849Z",
+        updated_at: "2018-07-20T15:26:05.089Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Imnovid"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 694,
+        name: "Ponatinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-09-21T09:20:21.384Z",
+        updated_at: "2017-11-20T09:34:38.888Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Iclusig"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 689,
+        name: "Regorafenib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-08-14T10:10:48.683Z",
+        updated_at: "2017-11-20T09:34:41.669Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Stivarga"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Sarcoma"
+        ]
+    },
+    {
+        id: 737,
+        name: "Ribociclib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2019-01-17T11:21:09.274Z",
+        updated_at: "2019-02-06T14:15:13.843Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Kisqali"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 546,
+        name: "Rituximab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2017-03-28T10:02:31.090Z",
+        updated_at: "2017-12-20T14:18:27.972Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "MabThera",
+            "Rixathon",
+            "Truxima",
+            "Rituxan",
+            "Reditux",
+            "Ristova",
+            "Acellbia"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 738,
+        name: "Rucaparib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 59,
+        created_at: "2019-01-18T10:40:39.810Z",
+        updated_at: "2019-02-11T15:03:38.320Z",
+        drug_class_name: "Oncolytics (PARP inhibitors)",
+        drug_trade_names: [
+            "Rubraca"
+        ],
+        drug_indication_names: [
+            "Gynaecological Cancer"
+        ]
+    },
+    {
+        id: 573,
+        name: "Sorafenib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:31.641Z",
+        updated_at: "2017-11-20T09:34:44.329Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Nexavar"
+        ],
+        drug_indication_names: [
+            "Gastrointestinal Cancer",
+            "Endocrine Tumours",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 588,
+        name: "Sunitinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2017-03-28T10:02:31.882Z",
+        updated_at: "2017-11-20T09:29:30.997Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Sutent"
+        ],
+        drug_indication_names: [
+            "Sarcoma",
+            "Endocrine Tumours",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 601,
+        name: "Temsirolimus",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 51,
+        created_at: "2017-03-28T10:02:32.084Z",
+        updated_at: "2017-11-20T09:28:54.857Z",
+        drug_class_name: "Oncolytics (mTOR inhibitors)",
+        drug_trade_names: [
+            "Torisel"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy",
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 609,
+        name: "Thalidomide",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2017-03-28T10:02:32.223Z",
+        updated_at: "2018-11-15T15:57:42.407Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Thalidomide Celgene",
+            "Thalomid"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 716,
+        name: "Tivozanib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-04-20T13:42:46.537Z",
+        updated_at: "2018-05-29T07:44:54.860Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Fotivda"
+        ],
+        drug_indication_names: [
+            "Genitourinary Cancer"
+        ]
+    },
+    {
+        id: 701,
+        name: "Trametinib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-01-09T16:07:14.271Z",
+        updated_at: "2018-03-15T15:51:57.924Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Mekinist"
+        ],
+        drug_indication_names: [
+            "Melanoma/ Skin Cancer",
+            "Endocrine Tumours",
+            "Lung Cancer"
+        ]
+    },
+    {
+        id: 732,
+        name: "Trastuzumab",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-09-21T15:14:18.598Z",
+        updated_at: "2018-11-15T15:57:50.113Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Herceptin"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Gastrointestinal Cancer"
+        ]
+    },
+    {
+        id: 733,
+        name: "Trastuzumab-emtansine",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 50,
+        created_at: "2018-09-21T15:14:52.254Z",
+        updated_at: "2018-11-15T15:57:54.640Z",
+        drug_class_name: "Oncolytics (Monoclonal antibodies)",
+        drug_trade_names: [
+            "Kadcyla"
+        ],
+        drug_indication_names: [
+            "Breast Cancer"
+        ]
+    },
+    {
+        id: 702,
+        name: "Vemurafenib",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 56,
+        created_at: "2018-01-09T16:08:50.812Z",
+        updated_at: "2018-02-21T12:09:58.772Z",
+        drug_class_name: "Oncolytics (Protein kinase inhibitors)",
+        drug_trade_names: [
+            "Zelboraf"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy",
+            "Melanoma/ Skin Cancer"
+        ]
+    },
+    {
+        id: 709,
+        name: "Venetoclax",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 52,
+        created_at: "2018-01-31T11:30:36.155Z",
+        updated_at: "2018-04-27T10:32:44.781Z",
+        drug_class_name: "Oncolytics (Others) ",
+        drug_trade_names: [
+            "Venclyxto",
+            "Venclexta"
+        ],
+        drug_indication_names: [
+            "Haematological Malignancy"
+        ]
+    },
+    {
+        id: 742,
+        name: "Vinorelbine",
+        approved_for_rows: false,
+        approved_for_columns: true,
+        drug_class_id: 57,
+        created_at: "2019-08-14T09:45:51.644Z",
+        updated_at: "2019-09-24T12:25:38.682Z",
+        drug_class_name: "Oncolytics (Vinca alkaloids)",
+        drug_trade_names: [
+            "Navelbine",
+            "Vinorelbine"
+        ],
+        drug_indication_names: [
+            "Breast Cancer",
+            "Lung Cancer"
+        ]
+    }
+]

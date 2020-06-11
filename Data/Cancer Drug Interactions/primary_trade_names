@@ -1,0 +1,751 @@
+[
+{
+"id": 1,
+"name": "Sutent",
+"connected_drugs": [
+588
+]
+},
+{
+"id": 4,
+"name": "Inlyta",
+"connected_drugs": [
+674
+]
+},
+{
+"id": 7,
+"name": "Cometriq",
+"connected_drugs": [
+675
+]
+},
+{
+"id": 8,
+"name": "Cabometyx",
+"connected_drugs": [
+675
+]
+},
+{
+"id": 9,
+"name": "Nexavar",
+"connected_drugs": [
+573
+]
+},
+{
+"id": 10,
+"name": "Torisel",
+"connected_drugs": [
+601
+]
+},
+{
+"id": 15,
+"name": "Votrient",
+"connected_drugs": [
+470
+]
+},
+{
+"id": 18,
+"name": "Opdivo",
+"connected_drugs": [
+687
+]
+},
+{
+"id": 19,
+"name": "Avastin",
+"connected_drugs": [
+685
+]
+},
+{
+"id": 20,
+"name": "Afinitor",
+"connected_drugs": [
+231
+]
+},
+{
+"id": 21,
+"name": "Votubia",
+"connected_drugs": [
+231
+]
+},
+{
+"id": 22,
+"name": "Lenvima",
+"connected_drugs": [
+688
+]
+},
+{
+"id": 23,
+"name": "Kisplyx",
+"connected_drugs": [
+688
+]
+},
+{
+"id": 24,
+"name": "Stivarga",
+"connected_drugs": [
+689
+]
+},
+{
+"id": 25,
+"name": "Lynparza",
+"connected_drugs": [
+686
+]
+},
+{
+"id": 26,
+"name": "Lartruvo",
+"connected_drugs": [
+690
+]
+},
+{
+"id": 27,
+"name": "Glivec",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 28,
+"name": "Gleevec",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 29,
+"name": "Nibix",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 30,
+"name": "Mytib",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 31,
+"name": "Imakrebin",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 32,
+"name": "Leutipol",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 33,
+"name": "Tibaldix",
+"connected_drugs": [
+305
+]
+},
+{
+"id": 37,
+"name": "Tasigna",
+"connected_drugs": [
+433
+]
+},
+{
+"id": 38,
+"name": "Bosulif",
+"connected_drugs": [
+693
+]
+},
+{
+"id": 39,
+"name": "Iclusig",
+"connected_drugs": [
+694
+]
+},
+{
+"id": 40,
+"name": "Zytiga",
+"connected_drugs": [
+695
+]
+},
+{
+"id": 41,
+"name": "Xtandi",
+"connected_drugs": [
+696
+]
+},
+{
+"id": 42,
+"name": "Sprycel",
+"connected_drugs": [
+155
+]
+},
+{
+"id": 43,
+"name": "Zydelig",
+"connected_drugs": [
+697
+]
+},
+{
+"id": 44,
+"name": "MabThera",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 45,
+"name": "Rixathon",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 46,
+"name": "Truxima",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 47,
+"name": "Rituxan",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 48,
+"name": "Reditux",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 49,
+"name": "Ristova",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 50,
+"name": "Acellbia",
+"connected_drugs": [
+546
+]
+},
+{
+"id": 51,
+"name": "Adcetris",
+"connected_drugs": [
+698
+]
+},
+{
+"id": 52,
+"name": "Keytruda",
+"connected_drugs": [
+699
+]
+},
+{
+"id": 53,
+"name": "Tafinlar",
+"connected_drugs": [
+700
+]
+},
+{
+"id": 54,
+"name": "Rafinlar",
+"connected_drugs": [
+700
+]
+},
+{
+"id": 55,
+"name": "Mekinist",
+"connected_drugs": [
+701
+]
+},
+{
+"id": 56,
+"name": "Zelboraf",
+"connected_drugs": [
+702
+]
+},
+{
+"id": 57,
+"name": "Cotellic",
+"connected_drugs": [
+703
+]
+},
+{
+"id": 58,
+"name": "Yervoy",
+"connected_drugs": [
+704
+]
+},
+{
+"id": 59,
+"name": "Campath",
+"connected_drugs": [
+705
+]
+},
+{
+"id": 60,
+"name": "MabCampath",
+"connected_drugs": [
+705
+]
+},
+{
+"id": 61,
+"name": "Imbruvica",
+"connected_drugs": [
+706
+]
+},
+{
+"id": 62,
+"name": "Gazyva",
+"connected_drugs": [
+707
+]
+},
+{
+"id": 63,
+"name": "Gazyvaro",
+"connected_drugs": [
+707
+]
+},
+{
+"id": 64,
+"name": "Arzerra",
+"connected_drugs": [
+708
+]
+},
+{
+"id": 65,
+"name": "Venclyxto",
+"connected_drugs": [
+709
+]
+},
+{
+"id": 66,
+"name": "Venclexta",
+"connected_drugs": [
+709
+]
+},
+{
+"id": 69,
+"name": "Xeloda",
+"connected_drugs": [
+88
+]
+},
+{
+"id": 70,
+"name": "Erbitux",
+"connected_drugs": [
+712
+]
+},
+{
+"id": 71,
+"name": "Vectibix",
+"connected_drugs": [
+713
+]
+},
+{
+"id": 72,
+"name": "Bavencio",
+"connected_drugs": [
+714
+]
+},
+{
+"id": 73,
+"name": "Zejula",
+"connected_drugs": [
+715
+]
+},
+{
+"id": 74,
+"name": "Fotivda",
+"connected_drugs": [
+716
+]
+},
+{
+"id": 75,
+"name": "Calquence",
+"connected_drugs": [
+717
+]
+},
+{
+"id": 76,
+"name": "Blincyto",
+"connected_drugs": [
+718
+]
+},
+{
+"id": 77,
+"name": "Besponsa",
+"connected_drugs": [
+719
+]
+},
+{
+"id": 80,
+"name": "Darzalex",
+"connected_drugs": [
+722
+]
+},
+{
+"id": 81,
+"name": "Imnovid",
+"connected_drugs": [
+723
+]
+},
+{
+"id": 82,
+"name": "Ninlaro",
+"connected_drugs": [
+724
+]
+},
+{
+"id": 83,
+"name": "Revlimid",
+"connected_drugs": [
+725
+]
+},
+{
+"id": 84,
+"name": "Velcade",
+"connected_drugs": [
+76
+]
+},
+{
+"id": 85,
+"name": "Empliciti",
+"connected_drugs": [
+729
+]
+},
+{
+"id": 86,
+"name": "Farydak",
+"connected_drugs": [
+730
+]
+},
+{
+"id": 87,
+"name": "Perjeta",
+"connected_drugs": [
+731
+]
+},
+{
+"id": 88,
+"name": "Herceptin",
+"connected_drugs": [
+732
+]
+},
+{
+"id": 89,
+"name": "Kadcyla",
+"connected_drugs": [
+733
+]
+},
+{
+"id": 90,
+"name": "Thalidomide Celgene",
+"connected_drugs": [
+609
+]
+},
+{
+"id": 91,
+"name": "Thalomid",
+"connected_drugs": [
+609
+]
+},
+{
+"id": 92,
+"name": "Tyverb",
+"connected_drugs": [
+336
+]
+},
+{
+"id": 93,
+"name": "Tykerb",
+"connected_drugs": [
+336
+]
+},
+{
+"id": 94,
+"name": "Verzenios",
+"connected_drugs": [
+734
+]
+},
+{
+"id": 95,
+"name": "Verzenio",
+"connected_drugs": [
+734
+]
+},
+{
+"id": 96,
+"name": "Ibrance",
+"connected_drugs": [
+735
+]
+},
+{
+"id": 97,
+"name": "Nerlynx",
+"connected_drugs": [
+736
+]
+},
+{
+"id": 98,
+"name": "Kisqali",
+"connected_drugs": [
+737
+]
+},
+{
+"id": 99,
+"name": "Rubraca",
+"connected_drugs": [
+738
+]
+},
+{
+"id": 100,
+"name": "Fluorouracil",
+"connected_drugs": [
+739
+]
+},
+{
+"id": 101,
+"name": "Jevtana",
+"connected_drugs": [
+740
+]
+},
+{
+"id": 102,
+"name": "Taxotere",
+"connected_drugs": [
+179
+]
+},
+{
+"id": 103,
+"name": "Doxorubicin",
+"connected_drugs": [
+741
+]
+},
+{
+"id": 104,
+"name": "Caelyx",
+"connected_drugs": [
+741
+]
+},
+{
+"id": 105,
+"name": "Myocet",
+"connected_drugs": [
+741
+]
+},
+{
+"id": 106,
+"name": "Doxil",
+"connected_drugs": [
+741
+]
+},
+{
+"id": 107,
+"name": "Pharmorubicin",
+"connected_drugs": [
+211
+]
+},
+{
+"id": 108,
+"name": "Ellence",
+"connected_drugs": [
+211
+]
+},
+{
+"id": 109,
+"name": "Gemzar",
+"connected_drugs": [
+272
+]
+},
+{
+"id": 110,
+"name": "Infugem",
+"connected_drugs": [
+272
+]
+},
+{
+"id": 111,
+"name": "Onivyde",
+"connected_drugs": [
+317
+]
+},
+{
+"id": 112,
+"name": "Campto",
+"connected_drugs": [
+317
+]
+},
+{
+"id": 113,
+"name": "Camptosar",
+"connected_drugs": [
+317
+]
+},
+{
+"id": 114,
+"name": "Efidix",
+"connected_drugs": [
+739
+]
+},
+{
+"id": 115,
+"name": "Efudex",
+"connected_drugs": [
+739
+]
+},
+{
+"id": 116,
+"name": "Jylamvo",
+"connected_drugs": [
+390
+]
+},
+{
+"id": 117,
+"name": "Matrex",
+"connected_drugs": [
+390
+]
+},
+{
+"id": 118,
+"name": "Methotrexate",
+"connected_drugs": [
+390
+]
+},
+{
+"id": 119,
+"name": "Xatmep",
+"connected_drugs": [
+390
+]
+},
+{
+"id": 120,
+"name": "Abraxane",
+"connected_drugs": [
+463
+]
+},
+{
+"id": 121,
+"name": "Paclitaxel",
+"connected_drugs": [
+463
+]
+},
+{
+"id": 122,
+"name": "Taxol",
+"connected_drugs": [
+463
+]
+},
+{
+"id": 123,
+"name": "Navelbine",
+"connected_drugs": [
+742
+]
+},
+{
+"id": 124,
+"name": "Vinorelbine",
+"connected_drugs": [
+742
+]
+}
+]
